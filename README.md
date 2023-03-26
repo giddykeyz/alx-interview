@@ -3,7 +3,7 @@
 
 AlgorithmPython
 
--   By Alexa Orrico, Software Engineer at Holberton School
+-   By Bardi Gideon, Software Engineer at ALX 
 
 ### Concepts
 
