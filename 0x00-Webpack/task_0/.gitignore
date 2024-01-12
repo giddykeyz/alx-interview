@@ -1,0 +1,6 @@
+# Ignore dist directory
+/dist/
+
+# main.js
+main.js
+
